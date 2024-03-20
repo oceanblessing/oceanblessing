@@ -1,12 +1,12 @@
-                  
-<img src="https://cdn.discordapp.com/attachments/1212682789695004713/1219951360812777472/Untitled11_20240320181221.png?ex=660d2b3e&is=65fab63e&hm=fcebc21f38e9b41318a82ff63fc0b526a367b66d1cfed012d8ffbe7282b70799&" width="700px" height="300px">
+<p align="center">                  
+<img src="https://cdn.discordapp.com/attachments/1212682789695004713/1219951360812777472/Untitled11_20240320181221.png?ex=660d2b3e&is=65fab63e&hm=fcebc21f38e9b41318a82ff63fc0b526a367b66d1cfed012d8ffbe7282b70799&" width="600px" height="300px">
 
 
-      
-                 any prns     minor     intj-a
+<p align="center">
+any prns     minor     intj-a
       
-
-               interest;  lmk   esmp   avm  ltpot 
+<p align="center">
+  interest;  lmk   esmp   avm  ltpot 
 
 <!--
 **aroaceyinyang/aroaceyinyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
