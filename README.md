@@ -1,4 +1,4 @@
-   <img src="https://cdn.discordapp.com/attachments/1212682789695004713/1219943348215873637/gifmaker_me_1.gif?ex=660d23c7&is=65faaec7&hm=93d6d3a2677ef733623ccb61623f3583ae227a9ff01309362a83286555200ac2&" height=300px width=300px class="center">
+<img src="https://cdn.discordapp.com/attachments/1212682789695004713/1219943348215873637/gifmaker_me_1.gif?ex=660d23c7&is=65faaec7&hm=93d6d3a2677ef733623ccb61623f3583ae227a9ff01309362a83286555200ac2&" alt="wip" class="center">
 ### wip
 
 <!--
