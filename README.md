@@ -6,9 +6,9 @@
   
       
 <p align="center"> $${\color{mediumslateblue}
-  interest;  lmk   esmp   avm  ltpot }$$
+  interest;  lmk   esmp   avm  tpot }$$
 <p align="center"> $${\color{mediumslateblue}
-  any prns     minor     intj-a }$$
+  any  prns     minor     intj-a }$$
 
 <!--
 **aroaceyinyang/aroaceyinyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
