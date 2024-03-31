@@ -10,6 +10,9 @@
 <p align="center"> $${\color{mediumslateblue}
   any  prns     minor     intj-a }$$
 
+<p align="center"> $${\color{mediumslateblue}
+  kin; }$$ <a href="https://battlefordreamisland.fandom.com/wiki/Teardrop">1</a>
+
 <!--
 **aroaceyinyang/aroaceyinyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
