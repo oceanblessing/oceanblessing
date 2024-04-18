@@ -5,13 +5,12 @@
 <p align="center"
   
       
-<p align="center"> $${\color{mediumslateblue}
+<p align="center"> $${\color{orange}
   interest;  lmk   esmp   avm  tpot }$$
-<p align="center"> $${\color{mediumslateblue}
+<p align="center"> $${\color{orange}
   any  prns     minor     intj-a }$$
-
-<p align="center"> $${\color{mediumslateblue}
-  kin; }$$ <a href="https://battlefordreamisland.fandom.com/wiki/Teardrop">1</a>
+<p align="center"> $${\color{khaki}
+  graphic   credit   to   }$$<a href="https://www.tumblr.com/herrscherofmemories">herrscherofmemories</a> 
 
 <!--
 **aroaceyinyang/aroaceyinyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
