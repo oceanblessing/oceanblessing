@@ -1,13 +1,13 @@
 <p align="center">                 
- <img src="https://64.media.tumblr.com/2637140058b86c1ecaf11f03d7af3776/fb572154c1bcc967-05/s250x400/d7190a3e411c8278b8c6e83ebd987756e30ec41a.png" height=180 width=620">
+ <img src="https://cdn.discordapp.com/attachments/1212682789695004713/1219951360812777472/Untitled11_20240320181221.png?ex=66530abe&is=6651b93e&hm=bd2406e1bc22ff5c7c9e7d652e80f5c7ed9a736ccb7c58cde0c1fe199f813193&" height=440 width=770">
 
 
 <p align="center"
   
       
-<p align="center"> $${\color{orange}
+<p align="center"> $${\color{orchid}
   interest;  lmk   esmp   avm  tpot }$$
-<p align="center"> $${\color{orange}
+<p align="center"> $${\color{orchid}
   any  prns     minor     intj-a }$$
 
 <!--
