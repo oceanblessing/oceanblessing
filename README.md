@@ -7,7 +7,7 @@
 <p align="center"> $${\color{orchid}
   BELL    or    TOX }$$
 <p align="center"> $${\color{orchid}
-  interest;  lmk   esmp   avm  tpot }$$
+  interest;  ninjago   esmp   avm  tpot }$$
 <p align="center"> $${\color{orchid}
   any  prns     minor     intj-a }$$
 
