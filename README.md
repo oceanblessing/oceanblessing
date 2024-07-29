@@ -5,7 +5,7 @@
 <p align="center"
   
 <p align="center"> $${\color{orchid}
-  BELL    or    TOX }$$
+  BELL    or    LIZZIE }$$
 <p align="center"> $${\color{orchid}
   interest;  ninjago   esmp   avm  tpot }$$
 <p align="center"> $${\color{orchid}
