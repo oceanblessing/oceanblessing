@@ -9,7 +9,7 @@
 <p align="center"> $${\color{orchid}
   interest;  ninjago   esmp   avm  tpot }$$
 <p align="center"> $${\color{orchid}
-  any  prns     minor     intj-a }$$
+  any  prns     minor     infp }$$
 
 <!--
 **aroaceyinyang/aroaceyinyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
