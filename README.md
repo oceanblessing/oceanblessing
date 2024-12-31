@@ -11,6 +11,9 @@
 <p align="center"> $${\color{orchid}
   any  prns     minor     infp }$$
 
+  
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aroaceyinyang)
+
 <!--
 **aroaceyinyang/aroaceyinyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
