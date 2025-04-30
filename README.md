@@ -7,7 +7,7 @@
 <p align="center"> $${\color{orchid}
   JAY    or    SKATE }$$
 <p align="center"> $${\color{orchid}
-  interest;  ninjago   esmp   avm  tpot }$$
+  interest;  ninjago   life series   avm  tpot }$$
 <p align="center"> $${\color{orchid}
   any  prns     minor     infp }$$
 
