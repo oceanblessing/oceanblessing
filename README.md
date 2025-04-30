@@ -5,7 +5,7 @@
 <p align="center"
   
 <p align="center"> $${\color{orchid}
-  JAY    or    LIZZIE }$$
+  JAY    or    SKATE }$$
 <p align="center"> $${\color{orchid}
   interest;  ninjago   esmp   avm  tpot }$$
 <p align="center"> $${\color{orchid}
